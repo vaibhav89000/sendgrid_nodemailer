@@ -1,0 +1,15 @@
+{
+  "name": "nodemailer_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.17",
+    "nodemailer-sendgrid-transport": "^0.2.0"
+  }
+}
